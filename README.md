@@ -1,6 +1,5 @@
-The files shown here are part of the development of a mini weather station integrating an ESP32 microcontroller, which is later connected to the AWS cloud for data analytics. This school project was carried out in collaboration with Aldo Vladimir and Rodrigo Castillo, professors at the Faculty of Science, UNAM, for the Digital Systems course. Some of the initial files serve as a technical-theoretical practice that students should be familiar with before they are implemented together. The aws_mqtt file contains the final version of the code implemented on the microcontroller for the subsequent connection. Any code-related discussions should be directed to ARDUINO and its creators.
+The files shown here are part of the development of a mini weather station integrating an ESP32 microcontroller, which is later connected to the AWS cloud for data analytics. This school project was carried out in collaboration with Aldo Vladimir and Rodrigo Castillo, professors at the Faculty of Science, UNAM, for the Digital Systems course. Some of the initial files serve as a technical-theoretical practice that students should be familiar with before they are implemented together.
 
-Translation to English (with improvements):
 
 ## Mini Weather Station with ESP32 and AWS Integration
 
